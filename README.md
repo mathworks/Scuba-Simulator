@@ -5,7 +5,11 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=https://github.com/OWNER/REPO&project=scuba-buyancy.prj)
 
 This repository contains a Simulink&reg; and Simscape&trade; project for modeling the
-vertical dynamics and gas-system behavior of a scuba diver. An overview of the
+vertical dynamics and gas-system behavior of a scuba diver. 
+
+![Scuba diver trajectory](https://blogs.mathworks.com/simulink/files/scuba_part_2.m-07-16-26_2.gif)
+
+An overview of the
 project is available in the accompanying Simulink blog post:
 <https://blogs.mathworks.com/simulink/2026/07/02/my-scuba-diving-simulator/>.
 The repository is organized around a reusable plant model, custom Simscape
