@@ -1,6 +1,6 @@
 # Scuba Simulator
 
-[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)]([https://www.mathworks.com/matlabcentral/fileexchange/TO_BO_FIXED](https://www.mathworks.com/matlabcentral/fileexchange/184358-scuba-simulator))
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)]([https://www.mathworks.com/matlabcentral/fileexchange/184358-scuba-simulator](https://www.mathworks.com/matlabcentral/fileexchange/184358-scuba-simulator))
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=https://github.com/OWNER/REPO&project=scuba-buyancy.prj)
 
